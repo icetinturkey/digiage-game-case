@@ -7,3 +7,7 @@ In this game, you control a gun and try to collect points and modify your gun wi
 It uses the Unity 2021 game engine as its base.
 
 :warning:It is not available for use and was prepared for the Digi-age Program assignment. If you are not part of this Program, you can ignore this repo.
+
+## Download
+
+[https://github.com/icetinturkey/digiage-game-case/releases/download/v0.1.0/wmr.apk](https://github.com/icetinturkey/digiage-game-case/releases/download/v0.1.0/wmr.apk)
